@@ -1,0 +1,16 @@
+D:\C# Eğitim\HomeWork\1_Odevler_Konsol\bin\Debug\1_Odevler_Konsol.exe.config
+D:\C# Eğitim\HomeWork\1_Odevler_Konsol\bin\Debug\1_Odevler_Konsol.exe
+D:\C# Eğitim\HomeWork\1_Odevler_Konsol\bin\Debug\1_Odevler_Konsol.pdb
+D:\C# Eğitim\HomeWork\1_Odevler_Konsol\obj\Debug\1_Odevler_Konsol.csproj.AssemblyReference.cache
+D:\C# Eğitim\HomeWork\1_Odevler_Konsol\obj\Debug\1_Odevler_Konsol.csproj.SuggestedBindingRedirects.cache
+D:\C# Eğitim\HomeWork\1_Odevler_Konsol\obj\Debug\1_Odevler_Konsol.csproj.CoreCompileInputs.cache
+D:\C# Eğitim\HomeWork\1_Odevler_Konsol\obj\Debug\1_Odevler_Konsol.exe
+D:\C# Eğitim\HomeWork\1_Odevler_Konsol\obj\Debug\1_Odevler_Konsol.pdb
+C:\Users\ferha\Desktop\GitHubProjeler\Ödevler\WorkProje\1_Odevler_Konsol\bin\Debug\1_Odevler_Konsol.exe.config
+C:\Users\ferha\Desktop\GitHubProjeler\Ödevler\WorkProje\1_Odevler_Konsol\bin\Debug\1_Odevler_Konsol.exe
+C:\Users\ferha\Desktop\GitHubProjeler\Ödevler\WorkProje\1_Odevler_Konsol\bin\Debug\1_Odevler_Konsol.pdb
+C:\Users\ferha\Desktop\GitHubProjeler\Ödevler\WorkProje\1_Odevler_Konsol\obj\Debug\1_Odevler_Konsol.csproj.AssemblyReference.cache
+C:\Users\ferha\Desktop\GitHubProjeler\Ödevler\WorkProje\1_Odevler_Konsol\obj\Debug\1_Odevler_Konsol.csproj.SuggestedBindingRedirects.cache
+C:\Users\ferha\Desktop\GitHubProjeler\Ödevler\WorkProje\1_Odevler_Konsol\obj\Debug\1_Odevler_Konsol.csproj.CoreCompileInputs.cache
+C:\Users\ferha\Desktop\GitHubProjeler\Ödevler\WorkProje\1_Odevler_Konsol\obj\Debug\1_Odevler_Konsol.exe
+C:\Users\ferha\Desktop\GitHubProjeler\Ödevler\WorkProje\1_Odevler_Konsol\obj\Debug\1_Odevler_Konsol.pdb
