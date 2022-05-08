@@ -93,6 +93,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_Test_Form_Ornek2", "20_T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_AdoNet_Adres_Defteri", "20_AdoNet_Adres_Defteri\20_AdoNet_Adres_Defteri.csproj", "{F4E1E5BE-B984-44E5-8AE0-F72454F0C079}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adonet_Sinif_Ogrenci_Listesi", "Adonet_Sinif_Ogrenci_Listesi\Adonet_Sinif_Ogrenci_Listesi.csproj", "{8B08EAD3-5935-4858-8CCD-BD356C0E0044}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -279,6 +281,10 @@ Global
 		{F4E1E5BE-B984-44E5-8AE0-F72454F0C079}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4E1E5BE-B984-44E5-8AE0-F72454F0C079}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4E1E5BE-B984-44E5-8AE0-F72454F0C079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B08EAD3-5935-4858-8CCD-BD356C0E0044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B08EAD3-5935-4858-8CCD-BD356C0E0044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B08EAD3-5935-4858-8CCD-BD356C0E0044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B08EAD3-5935-4858-8CCD-BD356C0E0044}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

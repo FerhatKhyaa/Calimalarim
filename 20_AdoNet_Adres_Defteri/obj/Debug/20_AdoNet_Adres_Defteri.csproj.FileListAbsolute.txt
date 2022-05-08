@@ -9,3 +9,14 @@ C:\Users\ferha\Desktop\GitHubProjeler\IlkProjem\20_AdoNet_Adres_Defteri\obj\Debu
 C:\Users\ferha\Desktop\GitHubProjeler\IlkProjem\20_AdoNet_Adres_Defteri\obj\Debug\20_AdoNet_Adres_Defteri.csproj.CoreCompileInputs.cache
 C:\Users\ferha\Desktop\GitHubProjeler\IlkProjem\20_AdoNet_Adres_Defteri\obj\Debug\20_AdoNet_Adres_Defteri.exe
 C:\Users\ferha\Desktop\GitHubProjeler\IlkProjem\20_AdoNet_Adres_Defteri\obj\Debug\20_AdoNet_Adres_Defteri.pdb
+C:\Users\ferha\Desktop\YeniÇalışmalarım\Calimalarim\20_AdoNet_Adres_Defteri\bin\Debug\20_AdoNet_Adres_Defteri.exe.config
+C:\Users\ferha\Desktop\YeniÇalışmalarım\Calimalarim\20_AdoNet_Adres_Defteri\bin\Debug\20_AdoNet_Adres_Defteri.exe
+C:\Users\ferha\Desktop\YeniÇalışmalarım\Calimalarim\20_AdoNet_Adres_Defteri\bin\Debug\20_AdoNet_Adres_Defteri.pdb
+C:\Users\ferha\Desktop\YeniÇalışmalarım\Calimalarim\20_AdoNet_Adres_Defteri\obj\Debug\20_AdoNet_Adres_Defteri.csproj.AssemblyReference.cache
+C:\Users\ferha\Desktop\YeniÇalışmalarım\Calimalarim\20_AdoNet_Adres_Defteri\obj\Debug\20_AdoNet_Adres_Defteri.csproj.SuggestedBindingRedirects.cache
+C:\Users\ferha\Desktop\YeniÇalışmalarım\Calimalarim\20_AdoNet_Adres_Defteri\obj\Debug\_20_AdoNet_Adres_Defteri.Form1.resources
+C:\Users\ferha\Desktop\YeniÇalışmalarım\Calimalarim\20_AdoNet_Adres_Defteri\obj\Debug\_20_AdoNet_Adres_Defteri.Properties.Resources.resources
+C:\Users\ferha\Desktop\YeniÇalışmalarım\Calimalarim\20_AdoNet_Adres_Defteri\obj\Debug\20_AdoNet_Adres_Defteri.csproj.GenerateResource.cache
+C:\Users\ferha\Desktop\YeniÇalışmalarım\Calimalarim\20_AdoNet_Adres_Defteri\obj\Debug\20_AdoNet_Adres_Defteri.csproj.CoreCompileInputs.cache
+C:\Users\ferha\Desktop\YeniÇalışmalarım\Calimalarim\20_AdoNet_Adres_Defteri\obj\Debug\20_AdoNet_Adres_Defteri.exe
+C:\Users\ferha\Desktop\YeniÇalışmalarım\Calimalarim\20_AdoNet_Adres_Defteri\obj\Debug\20_AdoNet_Adres_Defteri.pdb

@@ -1,0 +1,11 @@
+C:\Users\ferha\Desktop\YeniÇalışmalarım\Calimalarim\Adonet_Sinif_Ogrenci_Listesi\bin\Debug\Adonet_Sinif_Ogrenci_Listesi.exe.config
+C:\Users\ferha\Desktop\YeniÇalışmalarım\Calimalarim\Adonet_Sinif_Ogrenci_Listesi\bin\Debug\Adonet_Sinif_Ogrenci_Listesi.exe
+C:\Users\ferha\Desktop\YeniÇalışmalarım\Calimalarim\Adonet_Sinif_Ogrenci_Listesi\bin\Debug\Adonet_Sinif_Ogrenci_Listesi.pdb
+C:\Users\ferha\Desktop\YeniÇalışmalarım\Calimalarim\Adonet_Sinif_Ogrenci_Listesi\obj\Debug\Adonet_Sinif_Ogrenci_Listesi.csproj.AssemblyReference.cache
+C:\Users\ferha\Desktop\YeniÇalışmalarım\Calimalarim\Adonet_Sinif_Ogrenci_Listesi\obj\Debug\Adonet_Sinif_Ogrenci_Listesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ferha\Desktop\YeniÇalışmalarım\Calimalarim\Adonet_Sinif_Ogrenci_Listesi\obj\Debug\Adonet_Sinif_Ogrenci_Listesi.Form1.resources
+C:\Users\ferha\Desktop\YeniÇalışmalarım\Calimalarim\Adonet_Sinif_Ogrenci_Listesi\obj\Debug\Adonet_Sinif_Ogrenci_Listesi.Properties.Resources.resources
+C:\Users\ferha\Desktop\YeniÇalışmalarım\Calimalarim\Adonet_Sinif_Ogrenci_Listesi\obj\Debug\Adonet_Sinif_Ogrenci_Listesi.csproj.GenerateResource.cache
+C:\Users\ferha\Desktop\YeniÇalışmalarım\Calimalarim\Adonet_Sinif_Ogrenci_Listesi\obj\Debug\Adonet_Sinif_Ogrenci_Listesi.csproj.CoreCompileInputs.cache
+C:\Users\ferha\Desktop\YeniÇalışmalarım\Calimalarim\Adonet_Sinif_Ogrenci_Listesi\obj\Debug\Adonet_Sinif_Ogrenci_Listesi.exe
+C:\Users\ferha\Desktop\YeniÇalışmalarım\Calimalarim\Adonet_Sinif_Ogrenci_Listesi\obj\Debug\Adonet_Sinif_Ogrenci_Listesi.pdb

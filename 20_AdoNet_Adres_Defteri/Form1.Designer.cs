@@ -53,10 +53,12 @@
             // 
             // dgvAdresDefteri
             // 
+            this.dgvAdresDefteri.AllowUserToDeleteRows = false;
             this.dgvAdresDefteri.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvAdresDefteri.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvAdresDefteri.Location = new System.Drawing.Point(12, 12);
             this.dgvAdresDefteri.Name = "dgvAdresDefteri";
+            this.dgvAdresDefteri.ReadOnly = true;
             this.dgvAdresDefteri.Size = new System.Drawing.Size(776, 213);
             this.dgvAdresDefteri.TabIndex = 0;
             this.dgvAdresDefteri.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvAdresDefteri_CellClick);

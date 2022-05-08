@@ -78,5 +78,6 @@ namespace _20_AdoNet_Adres_Defteri
             cmd.Parameters.AddWithValue("@id", urunId);
             cmd.ExecuteNonQuery();
         }
+        
     }
 }
